@@ -1,2 +1,2 @@
-# sparks_task_1_2_3
-task 1 , 2 , 3 prediction using supervised and unsupervised ML 
+# Data-Science-Business-Analytics-Internship-at-The-Sparks-Foundation
+All the task performed during the internship are uploaded in this repository 
